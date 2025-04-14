@@ -9,9 +9,6 @@ WISdra SMP is a Civilization-style Minecraft server focused on town-building, st
 
 Season 1 launches on April 22 with Towny-based gameplay, trade networks, nations, diplomacy, and more.
 
-[Play Now](minecraft://mc.wisdra.com)
-
-
 # Terms of Use
 
 WISdra SMP and its website are community-run and open for fair use. All assets and code are used under their respective licenses.
@@ -23,7 +20,3 @@ This website does not collect any data, but third party integrations may collect
 
 - Mcsrvstat.us: Displays Minecraft server status
 - Widgetbot: Displays Discord server preview
-
----
-layout: page
-navname: About
