@@ -32,8 +32,8 @@ siteNav:
   - name: Server Map
     url: map
     newtab: true
-  - name: Screenshots
-    url: screenshots
+  - name: Store
+    url: store
   - name: About
     url: about
 
