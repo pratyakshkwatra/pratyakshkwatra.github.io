@@ -34,6 +34,7 @@ siteNav:
     newtab: true
   - name: Store
     url: store
+    newtab: true
   - name: About
     url: about
 

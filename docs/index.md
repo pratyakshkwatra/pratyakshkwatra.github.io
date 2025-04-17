@@ -10,9 +10,9 @@ cellLinks:
 
   - cname: Store
     curl: store
-    cimage: media/demo4.jpg
+    cimage: media/demo_store.png
 
   - cname: Screenshots
     curl: screenshots
-    cimage: media/demo_store.png
+    cimage: media/demo4.jpeg
 ---
