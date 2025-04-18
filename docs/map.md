@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://map.wisdra.com/
+tourl: https://towny.wisdra.com/
 ---
